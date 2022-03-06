@@ -1,0 +1,1135 @@
+X = 5 Y = 5
+    accuracy                           0.79      1000
+X = 5 Y = 6
+    accuracy                           0.83      1000
+X = 5 Y = 7
+    accuracy                           0.84      1000
+X = 5 Y = 8
+    accuracy                           0.83      1000
+X = 5 Y = 9
+    accuracy                           0.85      1000
+X = 5 Y = 10
+    accuracy                           0.87      1000
+X = 5 Y = 11
+    accuracy                           0.87      1000
+X = 5 Y = 12
+    accuracy                           0.87      1000
+X = 5 Y = 13
+    accuracy                           0.88      1000
+X = 5 Y = 14
+    accuracy                           0.87      1000
+X = 5 Y = 15
+    accuracy                           0.88      1000
+X = 5 Y = 16
+    accuracy                           0.89      1000
+X = 5 Y = 17
+    accuracy                           0.89      1000
+X = 5 Y = 18
+    accuracy                           0.88      1000
+X = 5 Y = 19
+    accuracy                           0.89      1000
+X = 5 Y = 20
+    accuracy                           0.88      1000
+X = 5 Y = 21
+    accuracy                           0.89      1000
+X = 5 Y = 22
+    accuracy                           0.88      1000
+X = 5 Y = 23
+    accuracy                           0.89      1000
+X = 5 Y = 24
+    accuracy                           0.88      1000
+X = 5 Y = 25
+    accuracy                           0.89      1000
+X = 5 Y = 26
+    accuracy                           0.88      1000
+X = 5 Y = 27
+    accuracy                           0.89      1000
+X = 5 Y = 28
+    accuracy                           0.89      1000
+X = 5 Y = 29
+    accuracy                           0.89      1000
+X = 5 Y = 30
+    accuracy                           0.89      1000
+X = 5 Y = 31
+    accuracy                           0.88      1000
+X = 5 Y = 32
+    accuracy                           0.90      1000
+X = 5 Y = 33
+    accuracy                           0.90      1000
+X = 5 Y = 34
+    accuracy                           0.88      1000
+X = 5 Y = 35
+    accuracy                           0.89      1000
+X = 5 Y = 36
+    accuracy                           0.90      1000
+X = 5 Y = 37
+    accuracy                           0.90      1000
+X = 5 Y = 38
+    accuracy                           0.89      1000
+X = 5 Y = 39
+    accuracy                           0.89      1000
+X = 5 Y = 40
+    accuracy                           0.90      1000
+X = 6 Y = 5
+    accuracy                           0.79      1000
+X = 6 Y = 6
+    accuracy                           0.85      1000
+X = 6 Y = 7
+    accuracy                           0.86      1000
+X = 6 Y = 8
+    accuracy                           0.85      1000
+X = 6 Y = 9
+    accuracy                           0.87      1000
+X = 6 Y = 10
+    accuracy                           0.88      1000
+X = 6 Y = 11
+    accuracy                           0.88      1000
+X = 6 Y = 12
+    accuracy                           0.89      1000
+X = 6 Y = 13
+    accuracy                           0.89      1000
+X = 6 Y = 14
+    accuracy                           0.89      1000
+X = 6 Y = 15
+    accuracy                           0.90      1000
+X = 6 Y = 16
+    accuracy                           0.90      1000
+X = 6 Y = 17
+    accuracy                           0.89      1000
+X = 6 Y = 18
+    accuracy                           0.90      1000
+X = 6 Y = 19
+    accuracy                           0.90      1000
+X = 6 Y = 20
+    accuracy                           0.91      1000
+X = 6 Y = 21
+    accuracy                           0.90      1000
+X = 6 Y = 22
+    accuracy                           0.90      1000
+X = 6 Y = 23
+    accuracy                           0.90      1000
+X = 6 Y = 24
+    accuracy                           0.90      1000
+X = 6 Y = 25
+    accuracy                           0.91      1000
+X = 6 Y = 26
+    accuracy                           0.91      1000
+X = 6 Y = 27
+    accuracy                           0.91      1000
+X = 6 Y = 28
+    accuracy                           0.91      1000
+X = 6 Y = 29
+    accuracy                           0.90      1000
+X = 6 Y = 30
+    accuracy                           0.90      1000
+X = 6 Y = 31
+    accuracy                           0.90      1000
+X = 6 Y = 32
+    accuracy                           0.91      1000
+X = 6 Y = 33
+    accuracy                           0.91      1000
+X = 6 Y = 34
+    accuracy                           0.90      1000
+X = 6 Y = 35
+    accuracy                           0.91      1000
+X = 6 Y = 36
+    accuracy                           0.90      1000
+X = 6 Y = 37
+    accuracy                           0.91      1000
+X = 6 Y = 38
+    accuracy                           0.90      1000
+X = 6 Y = 39
+    accuracy                           0.91      1000
+X = 6 Y = 40
+    accuracy                           0.90      1000
+X = 7 Y = 5
+    accuracy                           0.81      1000
+X = 7 Y = 6
+    accuracy                           0.84      1000
+X = 7 Y = 7
+    accuracy                           0.87      1000
+X = 7 Y = 8
+    accuracy                           0.87      1000
+X = 7 Y = 9
+    accuracy                           0.89      1000
+X = 7 Y = 10
+    accuracy                           0.88      1000
+X = 7 Y = 11
+    accuracy                           0.88      1000
+X = 7 Y = 12
+    accuracy                           0.89      1000
+X = 7 Y = 13
+    accuracy                           0.88      1000
+X = 7 Y = 14
+    accuracy                           0.89      1000
+X = 7 Y = 15
+    accuracy                           0.90      1000
+X = 7 Y = 16
+    accuracy                           0.90      1000
+X = 7 Y = 17
+    accuracy                           0.91      1000
+X = 7 Y = 18
+    accuracy                           0.90      1000
+X = 7 Y = 19
+    accuracy                           0.90      1000
+X = 7 Y = 20
+    accuracy                           0.90      1000
+X = 7 Y = 21
+    accuracy                           0.90      1000
+X = 7 Y = 22
+    accuracy                           0.91      1000
+X = 7 Y = 23
+    accuracy                           0.90      1000
+X = 7 Y = 24
+    accuracy                           0.89      1000
+X = 7 Y = 25
+    accuracy                           0.90      1000
+X = 7 Y = 26
+    accuracy                           0.91      1000
+X = 7 Y = 27
+    accuracy                           0.91      1000
+X = 7 Y = 28
+    accuracy                           0.90      1000
+X = 7 Y = 29
+    accuracy                           0.90      1000
+X = 7 Y = 30
+    accuracy                           0.90      1000
+X = 7 Y = 31
+    accuracy                           0.89      1000
+X = 7 Y = 32
+    accuracy                           0.90      1000
+X = 7 Y = 33
+    accuracy                           0.90      1000
+X = 7 Y = 34
+    accuracy                           0.90      1000
+X = 7 Y = 35
+    accuracy                           0.91      1000
+X = 7 Y = 36
+    accuracy                           0.90      1000
+X = 7 Y = 37
+    accuracy                           0.90      1000
+X = 7 Y = 38
+    accuracy                           0.90      1000
+X = 7 Y = 39
+    accuracy                           0.90      1000
+X = 7 Y = 40
+    accuracy                           0.90      1000
+X = 8 Y = 5
+    accuracy                           0.83      1000
+X = 8 Y = 6
+    accuracy                           0.85      1000
+X = 8 Y = 7
+    accuracy                           0.86      1000
+X = 8 Y = 8
+    accuracy                           0.86      1000
+X = 8 Y = 9
+    accuracy                           0.88      1000
+X = 8 Y = 10
+    accuracy                           0.88      1000
+X = 8 Y = 11
+    accuracy                           0.89      1000
+X = 8 Y = 12
+    accuracy                           0.90      1000
+X = 8 Y = 13
+    accuracy                           0.90      1000
+X = 8 Y = 14
+    accuracy                           0.91      1000
+X = 8 Y = 15
+    accuracy                           0.89      1000
+X = 8 Y = 16
+    accuracy                           0.90      1000
+X = 8 Y = 17
+    accuracy                           0.90      1000
+X = 8 Y = 18
+    accuracy                           0.90      1000
+X = 8 Y = 19
+    accuracy                           0.90      1000
+X = 8 Y = 20
+    accuracy                           0.90      1000
+X = 8 Y = 21
+    accuracy                           0.90      1000
+X = 8 Y = 22
+    accuracy                           0.89      1000
+X = 8 Y = 23
+    accuracy                           0.90      1000
+X = 8 Y = 24
+    accuracy                           0.90      1000
+X = 8 Y = 25
+    accuracy                           0.90      1000
+X = 8 Y = 26
+    accuracy                           0.90      1000
+X = 8 Y = 27
+    accuracy                           0.90      1000
+X = 8 Y = 28
+    accuracy                           0.90      1000
+X = 8 Y = 29
+    accuracy                           0.91      1000
+X = 8 Y = 30
+    accuracy                           0.91      1000
+X = 8 Y = 31
+    accuracy                           0.91      1000
+X = 8 Y = 32
+    accuracy                           0.90      1000
+X = 8 Y = 33
+    accuracy                           0.90      1000
+X = 8 Y = 34
+    accuracy                           0.91      1000
+X = 8 Y = 35
+    accuracy                           0.90      1000
+X = 8 Y = 36
+    accuracy                           0.91      1000
+X = 8 Y = 37
+    accuracy                           0.91      1000
+X = 8 Y = 38
+    accuracy                           0.91      1000
+X = 8 Y = 39
+    accuracy                           0.91      1000
+X = 8 Y = 40
+    accuracy                           0.90      1000
+X = 9 Y = 5
+    accuracy                           0.82      1000
+X = 9 Y = 6
+    accuracy                           0.85      1000
+X = 9 Y = 7
+    accuracy                           0.88      1000
+X = 9 Y = 8
+    accuracy                           0.89      1000
+X = 9 Y = 9
+    accuracy                           0.87      1000
+X = 9 Y = 10
+    accuracy                           0.88      1000
+X = 9 Y = 11
+    accuracy                           0.89      1000
+X = 9 Y = 12
+    accuracy                           0.89      1000
+X = 9 Y = 13
+    accuracy                           0.89      1000
+X = 9 Y = 14
+    accuracy                           0.90      1000
+X = 9 Y = 15
+    accuracy                           0.90      1000
+X = 9 Y = 16
+    accuracy                           0.90      1000
+X = 9 Y = 17
+    accuracy                           0.91      1000
+X = 9 Y = 18
+    accuracy                           0.90      1000
+X = 9 Y = 19
+    accuracy                           0.90      1000
+X = 9 Y = 20
+    accuracy                           0.91      1000
+X = 9 Y = 21
+    accuracy                           0.90      1000
+X = 9 Y = 22
+    accuracy                           0.91      1000
+X = 9 Y = 23
+    accuracy                           0.91      1000
+X = 9 Y = 24
+    accuracy                           0.91      1000
+X = 9 Y = 25
+    accuracy                           0.91      1000
+X = 9 Y = 26
+    accuracy                           0.91      1000
+X = 9 Y = 27
+    accuracy                           0.91      1000
+X = 9 Y = 28
+    accuracy                           0.90      1000
+X = 9 Y = 29
+    accuracy                           0.91      1000
+X = 9 Y = 30
+    accuracy                           0.92      1000
+X = 9 Y = 31
+    accuracy                           0.91      1000
+X = 9 Y = 32
+    accuracy                           0.91      1000
+X = 9 Y = 33
+    accuracy                           0.90      1000
+X = 9 Y = 34
+    accuracy                           0.91      1000
+X = 9 Y = 35
+    accuracy                           0.91      1000
+X = 9 Y = 36
+    accuracy                           0.91      1000
+X = 9 Y = 37
+    accuracy                           0.91      1000
+X = 9 Y = 38
+    accuracy                           0.92      1000
+X = 9 Y = 39
+    accuracy                           0.90      1000
+X = 9 Y = 40
+    accuracy                           0.90      1000
+X = 10 Y = 5
+    accuracy                           0.83      1000
+X = 10 Y = 6
+    accuracy                           0.86      1000
+X = 10 Y = 7
+    accuracy                           0.88      1000
+X = 10 Y = 8
+    accuracy                           0.88      1000
+X = 10 Y = 9
+    accuracy                           0.88      1000
+X = 10 Y = 10
+    accuracy                           0.89      1000
+X = 10 Y = 11
+    accuracy                           0.90      1000
+X = 10 Y = 12
+    accuracy                           0.89      1000
+X = 10 Y = 13
+    accuracy                           0.90      1000
+X = 10 Y = 14
+    accuracy                           0.89      1000
+X = 10 Y = 15
+    accuracy                           0.91      1000
+X = 10 Y = 16
+    accuracy                           0.91      1000
+X = 10 Y = 17
+    accuracy                           0.91      1000
+X = 10 Y = 18
+    accuracy                           0.90      1000
+X = 10 Y = 19
+    accuracy                           0.90      1000
+X = 10 Y = 20
+    accuracy                           0.90      1000
+X = 10 Y = 21
+    accuracy                           0.90      1000
+X = 10 Y = 22
+    accuracy                           0.91      1000
+X = 10 Y = 23
+    accuracy                           0.91      1000
+X = 10 Y = 24
+    accuracy                           0.91      1000
+X = 10 Y = 25
+    accuracy                           0.91      1000
+X = 10 Y = 26
+    accuracy                           0.91      1000
+X = 10 Y = 27
+    accuracy                           0.91      1000
+X = 10 Y = 28
+    accuracy                           0.91      1000
+X = 10 Y = 29
+    accuracy                           0.91      1000
+X = 10 Y = 30
+    accuracy                           0.91      1000
+X = 10 Y = 31
+    accuracy                           0.92      1000
+X = 10 Y = 32
+    accuracy                           0.91      1000
+X = 10 Y = 33
+    accuracy                           0.90      1000
+X = 10 Y = 34
+    accuracy                           0.91      1000
+X = 10 Y = 35
+    accuracy                           0.91      1000
+X = 10 Y = 36
+    accuracy                           0.91      1000
+X = 10 Y = 37
+    accuracy                           0.91      1000
+X = 10 Y = 38
+    accuracy                           0.90      1000
+X = 10 Y = 39
+    accuracy                           0.91      1000
+X = 10 Y = 40
+    accuracy                           0.90      1000
+X = 11 Y = 5
+    accuracy                           0.84      1000
+X = 11 Y = 6
+    accuracy                           0.87      1000
+X = 11 Y = 7
+    accuracy                           0.88      1000
+X = 11 Y = 8
+    accuracy                           0.89      1000
+X = 11 Y = 9
+    accuracy                           0.89      1000
+X = 11 Y = 10
+    accuracy                           0.89      1000
+X = 11 Y = 11
+    accuracy                           0.90      1000
+X = 11 Y = 12
+    accuracy                           0.91      1000
+X = 11 Y = 13
+    accuracy                           0.91      1000
+X = 11 Y = 14
+    accuracy                           0.91      1000
+X = 11 Y = 15
+    accuracy                           0.89      1000
+X = 11 Y = 16
+    accuracy                           0.91      1000
+X = 11 Y = 17
+    accuracy                           0.91      1000
+X = 11 Y = 18
+    accuracy                           0.91      1000
+X = 11 Y = 19
+    accuracy                           0.91      1000
+X = 11 Y = 20
+    accuracy                           0.91      1000
+X = 11 Y = 21
+    accuracy                           0.90      1000
+X = 11 Y = 22
+    accuracy                           0.91      1000
+X = 11 Y = 23
+    accuracy                           0.91      1000
+X = 11 Y = 24
+    accuracy                           0.91      1000
+X = 11 Y = 25
+    accuracy                           0.91      1000
+X = 11 Y = 26
+    accuracy                           0.91      1000
+X = 11 Y = 27
+    accuracy                           0.91      1000
+X = 11 Y = 28
+    accuracy                           0.91      1000
+X = 11 Y = 29
+    accuracy                           0.91      1000
+X = 11 Y = 30
+    accuracy                           0.92      1000
+X = 11 Y = 31
+    accuracy                           0.92      1000
+X = 11 Y = 32
+    accuracy                           0.91      1000
+X = 11 Y = 33
+    accuracy                           0.91      1000
+X = 11 Y = 34
+    accuracy                           0.91      1000
+X = 11 Y = 35
+    accuracy                           0.91      1000
+X = 11 Y = 36
+    accuracy                           0.92      1000
+X = 11 Y = 37
+    accuracy                           0.91      1000
+X = 11 Y = 38
+    accuracy                           0.91      1000
+X = 11 Y = 39
+    accuracy                           0.91      1000
+X = 11 Y = 40
+    accuracy                           0.91      1000
+X = 12 Y = 5
+    accuracy                           0.83      1000
+X = 12 Y = 6
+    accuracy                           0.87      1000
+X = 12 Y = 7
+    accuracy                           0.89      1000
+X = 12 Y = 8
+    accuracy                           0.89      1000
+X = 12 Y = 9
+    accuracy                           0.88      1000
+X = 12 Y = 10
+    accuracy                           0.90      1000
+X = 12 Y = 11
+    accuracy                           0.90      1000
+X = 12 Y = 12
+    accuracy                           0.90      1000
+X = 12 Y = 13
+    accuracy                           0.90      1000
+X = 12 Y = 14
+    accuracy                           0.90      1000
+X = 12 Y = 15
+    accuracy                           0.91      1000
+X = 12 Y = 16
+    accuracy                           0.90      1000
+X = 12 Y = 17
+    accuracy                           0.92      1000
+X = 12 Y = 18
+    accuracy                           0.91      1000
+X = 12 Y = 19
+    accuracy                           0.92      1000
+X = 12 Y = 20
+    accuracy                           0.91      1000
+X = 12 Y = 21
+    accuracy                           0.91      1000
+X = 12 Y = 22
+    accuracy                           0.91      1000
+X = 12 Y = 23
+    accuracy                           0.91      1000
+X = 12 Y = 24
+    accuracy                           0.91      1000
+X = 12 Y = 25
+    accuracy                           0.92      1000
+X = 12 Y = 26
+    accuracy                           0.91      1000
+X = 12 Y = 27
+    accuracy                           0.91      1000
+X = 12 Y = 28
+    accuracy                           0.92      1000
+X = 12 Y = 29
+    accuracy                           0.92      1000
+X = 12 Y = 30
+    accuracy                           0.91      1000
+X = 12 Y = 31
+    accuracy                           0.92      1000
+X = 12 Y = 32
+    accuracy                           0.91      1000
+X = 12 Y = 33
+    accuracy                           0.91      1000
+X = 12 Y = 34
+    accuracy                           0.92      1000
+X = 12 Y = 35
+    accuracy                           0.92      1000
+X = 12 Y = 36
+    accuracy                           0.92      1000
+X = 12 Y = 37
+    accuracy                           0.92      1000
+X = 12 Y = 38
+    accuracy                           0.91      1000
+X = 12 Y = 39
+    accuracy                           0.92      1000
+X = 12 Y = 40
+    accuracy                           0.92      1000
+X = 13 Y = 5
+    accuracy                           0.85      1000
+X = 13 Y = 6
+    accuracy                           0.88      1000
+X = 13 Y = 7
+    accuracy                           0.91      1000
+X = 13 Y = 8
+    accuracy                           0.89      1000
+X = 13 Y = 9
+    accuracy                           0.89      1000
+X = 13 Y = 10
+    accuracy                           0.91      1000
+X = 13 Y = 11
+    accuracy                           0.90      1000
+X = 13 Y = 12
+    accuracy                           0.91      1000
+X = 13 Y = 13
+    accuracy                           0.91      1000
+X = 13 Y = 14
+    accuracy                           0.90      1000
+X = 13 Y = 15
+    accuracy                           0.92      1000
+X = 13 Y = 16
+    accuracy                           0.91      1000
+X = 13 Y = 17
+    accuracy                           0.91      1000
+X = 13 Y = 18
+    accuracy                           0.90      1000
+X = 13 Y = 19
+    accuracy                           0.91      1000
+X = 13 Y = 20
+    accuracy                           0.91      1000
+X = 13 Y = 21
+    accuracy                           0.92      1000
+X = 13 Y = 22
+    accuracy                           0.91      1000
+X = 13 Y = 23
+    accuracy                           0.92      1000
+X = 13 Y = 24
+    accuracy                           0.91      1000
+X = 13 Y = 25
+    accuracy                           0.91      1000
+X = 13 Y = 26
+    accuracy                           0.92      1000
+X = 13 Y = 27
+    accuracy                           0.91      1000
+X = 13 Y = 28
+    accuracy                           0.91      1000
+X = 13 Y = 29
+    accuracy                           0.91      1000
+X = 13 Y = 30
+    accuracy                           0.91      1000
+X = 13 Y = 31
+    accuracy                           0.91      1000
+X = 13 Y = 32
+    accuracy                           0.91      1000
+X = 13 Y = 33
+    accuracy                           0.91      1000
+X = 13 Y = 34
+    accuracy                           0.92      1000
+X = 13 Y = 35
+    accuracy                           0.91      1000
+X = 13 Y = 36
+    accuracy                           0.92      1000
+X = 13 Y = 37
+    accuracy                           0.92      1000
+X = 13 Y = 38
+    accuracy                           0.91      1000
+X = 13 Y = 39
+    accuracy                           0.91      1000
+X = 13 Y = 40
+    accuracy                           0.91      1000
+X = 14 Y = 5
+    accuracy                           0.85      1000
+X = 14 Y = 6
+    accuracy                           0.87      1000
+X = 14 Y = 7
+    accuracy                           0.90      1000
+X = 14 Y = 8
+    accuracy                           0.88      1000
+X = 14 Y = 9
+    accuracy                           0.89      1000
+X = 14 Y = 10
+    accuracy                           0.90      1000
+X = 14 Y = 11
+    accuracy                           0.90      1000
+X = 14 Y = 12
+    accuracy                           0.91      1000
+X = 14 Y = 13
+    accuracy                           0.90      1000
+X = 14 Y = 14
+    accuracy                           0.91      1000
+X = 14 Y = 15
+    accuracy                           0.91      1000
+X = 14 Y = 16
+    accuracy                           0.92      1000
+X = 14 Y = 17
+    accuracy                           0.90      1000
+X = 14 Y = 18
+    accuracy                           0.91      1000
+X = 14 Y = 19
+    accuracy                           0.92      1000
+X = 14 Y = 20
+    accuracy                           0.91      1000
+X = 14 Y = 21
+    accuracy                           0.91      1000
+X = 14 Y = 22
+    accuracy                           0.90      1000
+X = 14 Y = 23
+    accuracy                           0.91      1000
+X = 14 Y = 24
+    accuracy                           0.92      1000
+X = 14 Y = 25
+    accuracy                           0.92      1000
+X = 14 Y = 26
+    accuracy                           0.91      1000
+X = 14 Y = 27
+    accuracy                           0.92      1000
+X = 14 Y = 28
+    accuracy                           0.91      1000
+X = 14 Y = 29
+    accuracy                           0.91      1000
+X = 14 Y = 30
+    accuracy                           0.91      1000
+X = 14 Y = 31
+    accuracy                           0.91      1000
+X = 14 Y = 32
+    accuracy                           0.91      1000
+X = 14 Y = 33
+    accuracy                           0.91      1000
+X = 14 Y = 34
+    accuracy                           0.91      1000
+X = 14 Y = 35
+    accuracy                           0.91      1000
+X = 14 Y = 36
+    accuracy                           0.91      1000
+X = 14 Y = 37
+    accuracy                           0.91      1000
+X = 14 Y = 38
+    accuracy                           0.91      1000
+X = 14 Y = 39
+    accuracy                           0.91      1000
+X = 14 Y = 40
+    accuracy                           0.91      1000
+X = 15 Y = 5
+    accuracy                           0.85      1000
+X = 15 Y = 6
+    accuracy                           0.88      1000
+X = 15 Y = 7
+    accuracy                           0.89      1000
+X = 15 Y = 8
+    accuracy                           0.90      1000
+X = 15 Y = 9
+    accuracy                           0.89      1000
+X = 15 Y = 10
+    accuracy                           0.90      1000
+X = 15 Y = 11
+    accuracy                           0.91      1000
+X = 15 Y = 12
+    accuracy                           0.90      1000
+X = 15 Y = 13
+    accuracy                           0.91      1000
+X = 15 Y = 14
+    accuracy                           0.90      1000
+X = 15 Y = 15
+    accuracy                           0.91      1000
+X = 15 Y = 16
+    accuracy                           0.91      1000
+X = 15 Y = 17
+    accuracy                           0.91      1000
+X = 15 Y = 18
+    accuracy                           0.91      1000
+X = 15 Y = 19
+    accuracy                           0.91      1000
+X = 15 Y = 20
+    accuracy                           0.90      1000
+X = 15 Y = 21
+    accuracy                           0.90      1000
+X = 15 Y = 22
+    accuracy                           0.91      1000
+X = 15 Y = 23
+    accuracy                           0.91      1000
+X = 15 Y = 24
+    accuracy                           0.91      1000
+X = 15 Y = 25
+    accuracy                           0.91      1000
+X = 15 Y = 26
+    accuracy                           0.92      1000
+X = 15 Y = 27
+    accuracy                           0.91      1000
+X = 15 Y = 28
+    accuracy                           0.92      1000
+X = 15 Y = 29
+    accuracy                           0.91      1000
+X = 15 Y = 30
+    accuracy                           0.91      1000
+X = 15 Y = 31
+    accuracy                           0.92      1000
+X = 15 Y = 32
+    accuracy                           0.91      1000
+X = 15 Y = 33
+    accuracy                           0.91      1000
+X = 15 Y = 34
+    accuracy                           0.92      1000
+X = 15 Y = 35
+    accuracy                           0.91      1000
+X = 15 Y = 36
+    accuracy                           0.91      1000
+X = 15 Y = 37
+    accuracy                           0.91      1000
+X = 15 Y = 38
+    accuracy                           0.91      1000
+X = 15 Y = 39
+    accuracy                           0.91      1000
+X = 15 Y = 40
+    accuracy                           0.91      1000
+X = 16 Y = 5
+    accuracy                           0.85      1000
+X = 16 Y = 6
+    accuracy                           0.88      1000
+X = 16 Y = 7
+    accuracy                           0.89      1000
+X = 16 Y = 8
+    accuracy                           0.89      1000
+X = 16 Y = 9
+    accuracy                           0.90      1000
+X = 16 Y = 10
+    accuracy                           0.90      1000
+X = 16 Y = 11
+    accuracy                           0.90      1000
+X = 16 Y = 12
+    accuracy                           0.91      1000
+X = 16 Y = 13
+    accuracy                           0.90      1000
+X = 16 Y = 14
+    accuracy                           0.91      1000
+X = 16 Y = 15
+    accuracy                           0.91      1000
+X = 16 Y = 16
+    accuracy                           0.91      1000
+X = 16 Y = 17
+    accuracy                           0.92      1000
+X = 16 Y = 18
+    accuracy                           0.91      1000
+X = 16 Y = 19
+    accuracy                           0.92      1000
+X = 16 Y = 20
+    accuracy                           0.92      1000
+X = 16 Y = 21
+    accuracy                           0.91      1000
+X = 16 Y = 22
+    accuracy                           0.91      1000
+X = 16 Y = 23
+    accuracy                           0.92      1000
+X = 16 Y = 24
+    accuracy                           0.91      1000
+X = 16 Y = 25
+    accuracy                           0.91      1000
+X = 16 Y = 26
+    accuracy                           0.92      1000
+X = 16 Y = 27
+    accuracy                           0.92      1000
+X = 16 Y = 28
+    accuracy                           0.91      1000
+X = 16 Y = 29
+    accuracy                           0.91      1000
+X = 16 Y = 30
+    accuracy                           0.91      1000
+X = 16 Y = 31
+    accuracy                           0.91      1000
+X = 16 Y = 32
+    accuracy                           0.91      1000
+X = 16 Y = 33
+    accuracy                           0.91      1000
+X = 16 Y = 34
+    accuracy                           0.92      1000
+X = 16 Y = 35
+    accuracy                           0.92      1000
+X = 16 Y = 36
+    accuracy                           0.91      1000
+X = 16 Y = 37
+    accuracy                           0.92      1000
+X = 16 Y = 38
+    accuracy                           0.91      1000
+X = 16 Y = 39
+    accuracy                           0.92      1000
+X = 16 Y = 40
+    accuracy                           0.91      1000
+X = 17 Y = 5
+    accuracy                           0.86      1000
+X = 17 Y = 6
+    accuracy                           0.88      1000
+X = 17 Y = 7
+    accuracy                           0.89      1000
+X = 17 Y = 8
+    accuracy                           0.89      1000
+X = 17 Y = 9
+    accuracy                           0.90      1000
+X = 17 Y = 10
+    accuracy                           0.90      1000
+X = 17 Y = 11
+    accuracy                           0.90      1000
+X = 17 Y = 12
+    accuracy                           0.91      1000
+X = 17 Y = 13
+    accuracy                           0.91      1000
+X = 17 Y = 14
+    accuracy                           0.90      1000
+X = 17 Y = 15
+    accuracy                           0.91      1000
+X = 17 Y = 16
+    accuracy                           0.91      1000
+X = 17 Y = 17
+    accuracy                           0.90      1000
+X = 17 Y = 18
+    accuracy                           0.91      1000
+X = 17 Y = 19
+    accuracy                           0.91      1000
+X = 17 Y = 20
+    accuracy                           0.91      1000
+X = 17 Y = 21
+    accuracy                           0.91      1000
+X = 17 Y = 22
+    accuracy                           0.91      1000
+X = 17 Y = 23
+    accuracy                           0.92      1000
+X = 17 Y = 24
+    accuracy                           0.92      1000
+X = 17 Y = 25
+    accuracy                           0.92      1000
+X = 17 Y = 26
+    accuracy                           0.91      1000
+X = 17 Y = 27
+    accuracy                           0.91      1000
+X = 17 Y = 28
+    accuracy                           0.91      1000
+X = 17 Y = 29
+    accuracy                           0.91      1000
+X = 17 Y = 30
+    accuracy                           0.91      1000
+X = 17 Y = 31
+    accuracy                           0.91      1000
+X = 17 Y = 32
+    accuracy                           0.91      1000
+X = 17 Y = 33
+    accuracy                           0.91      1000
+X = 17 Y = 34
+    accuracy                           0.91      1000
+X = 17 Y = 35
+    accuracy                           0.91      1000
+X = 17 Y = 36
+    accuracy                           0.91      1000
+X = 17 Y = 37
+    accuracy                           0.91      1000
+X = 17 Y = 38
+    accuracy                           0.91      1000
+X = 17 Y = 39
+    accuracy                           0.91      1000
+X = 17 Y = 40
+    accuracy                           0.91      1000
+X = 18 Y = 5
+    accuracy                           0.85      1000
+X = 18 Y = 6
+    accuracy                           0.88      1000
+X = 18 Y = 7
+    accuracy                           0.90      1000
+X = 18 Y = 8
+    accuracy                           0.90      1000
+X = 18 Y = 9
+    accuracy                           0.90      1000
+X = 18 Y = 10
+    accuracy                           0.90      1000
+X = 18 Y = 11
+    accuracy                           0.90      1000
+X = 18 Y = 12
+    accuracy                           0.91      1000
+X = 18 Y = 13
+    accuracy                           0.90      1000
+X = 18 Y = 14
+    accuracy                           0.91      1000
+X = 18 Y = 15
+    accuracy                           0.92      1000
+X = 18 Y = 16
+    accuracy                           0.92      1000
+X = 18 Y = 17
+    accuracy                           0.91      1000
+X = 18 Y = 18
+    accuracy                           0.91      1000
+X = 18 Y = 19
+    accuracy                           0.91      1000
+X = 18 Y = 20
+    accuracy                           0.92      1000
+X = 18 Y = 21
+    accuracy                           0.92      1000
+X = 18 Y = 22
+    accuracy                           0.91      1000
+X = 18 Y = 23
+    accuracy                           0.92      1000
+X = 18 Y = 24
+    accuracy                           0.92      1000
+X = 18 Y = 25
+    accuracy                           0.92      1000
+X = 18 Y = 26
+    accuracy                           0.92      1000
+X = 18 Y = 27
+    accuracy                           0.91      1000
+X = 18 Y = 28
+    accuracy                           0.92      1000
+X = 18 Y = 29
+    accuracy                           0.91      1000
+X = 18 Y = 30
+    accuracy                           0.92      1000
+X = 18 Y = 31
+    accuracy                           0.92      1000
+X = 18 Y = 32
+    accuracy                           0.91      1000
+X = 18 Y = 33
+    accuracy                           0.91      1000
+X = 18 Y = 34
+    accuracy                           0.92      1000
+X = 18 Y = 35
+    accuracy                           0.91      1000
+X = 18 Y = 36
+    accuracy                           0.91      1000
+X = 18 Y = 37
+    accuracy                           0.92      1000
+X = 18 Y = 38
+    accuracy                           0.92      1000
+X = 18 Y = 39
+    accuracy                           0.91      1000
+X = 18 Y = 40
+    accuracy                           0.91      1000
+X = 19 Y = 5
+    accuracy                           0.86      1000
+X = 19 Y = 6
+    accuracy                           0.88      1000
+X = 19 Y = 7
+    accuracy                           0.89      1000
+X = 19 Y = 8
+    accuracy                           0.89      1000
+X = 19 Y = 9
+    accuracy                           0.89      1000
+X = 19 Y = 10
+    accuracy                           0.90      1000
+X = 19 Y = 11
+    accuracy                           0.90      1000
+X = 19 Y = 12
+    accuracy                           0.91      1000
+X = 19 Y = 13
+    accuracy                           0.92      1000
+X = 19 Y = 14
+    accuracy                           0.91      1000
+X = 19 Y = 15
+    accuracy                           0.91      1000
+X = 19 Y = 16
+    accuracy                           0.91      1000
+X = 19 Y = 17
+    accuracy                           0.91      1000
+X = 19 Y = 18
+    accuracy                           0.90      1000
+X = 19 Y = 19
+    accuracy                           0.91      1000
+X = 19 Y = 20
+    accuracy                           0.92      1000
+X = 19 Y = 21
+    accuracy                           0.91      1000
+X = 19 Y = 22
+    accuracy                           0.91      1000
+X = 19 Y = 23
+    accuracy                           0.92      1000
+X = 19 Y = 24
+    accuracy                           0.92      1000
+X = 19 Y = 25
+    accuracy                           0.92      1000
+X = 19 Y = 26
+    accuracy                           0.92      1000
+X = 19 Y = 27
+    accuracy                           0.91      1000
+X = 19 Y = 28
+    accuracy                           0.92      1000
+X = 19 Y = 29
+    accuracy                           0.92      1000
+X = 19 Y = 30
+    accuracy                           0.91      1000
+X = 19 Y = 31
+    accuracy                           0.92      1000
+X = 19 Y = 32
+    accuracy                           0.92      1000
+X = 19 Y = 33
+    accuracy                           0.91      1000
+X = 19 Y = 34
+    accuracy                           0.91      1000
+X = 19 Y = 35
+    accuracy                           0.91      1000
+X = 19 Y = 36
+    accuracy                           0.92      1000
+X = 19 Y = 37
+    accuracy                           0.92      1000
+X = 19 Y = 38
+    accuracy                           0.91      1000
+X = 19 Y = 39
+    accuracy                           0.92      1000
+X = 19 Y = 40
+    accuracy                           0.91      1000
+X = 20 Y = 5
+    accuracy                           0.85      1000
+X = 20 Y = 6
+    accuracy                           0.88      1000
+X = 20 Y = 7
+    accuracy                           0.90      1000
+X = 20 Y = 8
+    accuracy                           0.90      1000
+X = 20 Y = 9
+    accuracy                           0.90      1000
+X = 20 Y = 10
+    accuracy                           0.91      1000
+X = 20 Y = 11
+    accuracy                           0.90      1000
+X = 20 Y = 12
+    accuracy                           0.92      1000
+X = 20 Y = 13
+    accuracy                           0.90      1000
+X = 20 Y = 14
+    accuracy                           0.91      1000
+X = 20 Y = 15
+    accuracy                           0.91      1000
+X = 20 Y = 16
+    accuracy                           0.92      1000
+X = 20 Y = 17
+    accuracy                           0.91      1000
+X = 20 Y = 18
+    accuracy                           0.91      1000
+X = 20 Y = 19
+    accuracy                           0.92      1000
+X = 20 Y = 20
+    accuracy                           0.92      1000
+X = 20 Y = 21
+    accuracy                           0.91      1000
+X = 20 Y = 22
+    accuracy                           0.91      1000
+X = 20 Y = 23
+    accuracy                           0.92      1000
+X = 20 Y = 24
+    accuracy                           0.92      1000
+X = 20 Y = 25
+    accuracy                           0.93      1000
+X = 20 Y = 26
+    accuracy                           0.92      1000
+X = 20 Y = 27
+    accuracy                           0.92      1000
+X = 20 Y = 28
+    accuracy                           0.92      1000
+X = 20 Y = 29
+    accuracy                           0.92      1000
+X = 20 Y = 30
+    accuracy                           0.92      1000
+X = 20 Y = 31
+    accuracy                           0.93      1000
+X = 20 Y = 32
